@@ -1,3 +1,3 @@
 # algorith
 
-# https://leetcode.com/problemset/all/.
+참고: https://leetcode.com/problemset/all/
