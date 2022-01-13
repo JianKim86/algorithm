@@ -10,10 +10,10 @@ public class TwoSum {
         // You can return the answer in any order.
 
         int[] test = solution(new int[]{2, 7, 11, 15}, 9);
-        System.out.println(test);
+        System.out.println(test); //[0,1]
 
         int[] test2 = solution2(new int[]{3, 2, 4}, 6);
-        System.out.println(test2);
+        System.out.println(test2); //[1,2]
 
     }
 
