@@ -14,7 +14,6 @@ public class TwoSum {
 
         int[] test2 = solution2(new int[]{3, 2, 4}, 6);
         System.out.println(test2); //[1,2]
-
     }
 
 
