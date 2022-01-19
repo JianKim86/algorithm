@@ -1,5 +1,5 @@
 public class PalindromeNumber {
-    public void test() {
+    public void run() {
         //Given an integer x, return true if x is palindrome integer.
         //An integer is a palindrome when it reads the same backward as forward.
         System.out.println(solution(22)); //true
