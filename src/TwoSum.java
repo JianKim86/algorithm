@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class TwoSum {
-    public void test() {
+    public void run() {
         // Given an array of integers nums and an integer target,
         // return indices of the two numbers such that they add up to target.
         // You may assume that each input would have exactly one solution,
