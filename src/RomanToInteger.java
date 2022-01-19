@@ -1,5 +1,5 @@
 public class RomanToInteger {
-    public void test() {
+    public void run() {
         //Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
         //Symbol       Value
         //I             1
