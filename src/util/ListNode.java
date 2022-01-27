@@ -16,6 +16,7 @@ public class ListNode {
         this.next = next;
     }
 
+    // 출력용
     @Override
     public String toString() {
         if (this.next == null) {
