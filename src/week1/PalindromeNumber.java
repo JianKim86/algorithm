@@ -1,3 +1,5 @@
+package week1;
+
 public class PalindromeNumber {
     public void run() {
         //Given an integer x, return true if x is palindrome integer.

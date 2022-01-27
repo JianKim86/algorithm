@@ -1,3 +1,5 @@
+package week1;
+
 public class RomanToInteger {
     public void run() {
         //Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.

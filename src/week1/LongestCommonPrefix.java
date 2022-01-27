@@ -1,3 +1,5 @@
+package week1;
+
 public class LongestCommonPrefix {
     public void run() {
         //Write a function to find the longest common prefix string amongst an array of strings.
