@@ -1,3 +1,5 @@
+package week2;
+
 public class LengthOfLastWord {
     public void run() {
         //Given a string s consisting of some words separated by some number of spaces,

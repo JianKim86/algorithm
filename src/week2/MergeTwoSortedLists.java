@@ -1,3 +1,7 @@
+package week2;
+
+import util.ListNode;
+
 public class MergeTwoSortedLists {
     public void run() {
         //You are given the heads of two sorted linked lists list1 and list2.

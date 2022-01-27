@@ -1,3 +1,5 @@
+package week2;
+
 public class MaximumSubarray {
     public void run() {
         //Given an integer array nums,
