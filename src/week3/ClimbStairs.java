@@ -1,3 +1,5 @@
+package week3;
+
 public class ClimbStairs {
     public void run() {
         //You are climbing a staircase. It takes n steps to reach the top.

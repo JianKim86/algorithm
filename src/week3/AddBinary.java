@@ -1,3 +1,5 @@
+package week3;
+
 public class AddBinary {
     public void run() {
         //Given two binary strings a and b, return their sum as a binary string.

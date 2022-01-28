@@ -1,3 +1,7 @@
+package week3;
+
+import util.ListNode;
+
 public class RemoveDuplicatesFromSortedList {
     public void run() {
         //Given the head of a sorted linked list,
